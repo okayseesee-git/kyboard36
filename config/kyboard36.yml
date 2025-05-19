@@ -1,0 +1,9 @@
+ file_format: "1"
+id: kyboard36
+name: kyboard36
+type: shield
+url: https://github.com/okayseesee-git/kyboard36
+requires: [nice_nano_v2]
+features:
+  - keys
+  - zmk studio
