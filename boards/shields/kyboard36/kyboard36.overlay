@@ -3,6 +3,8 @@
 
 &physical_layout0 {
     transform = <&matrix_transform>;
+};
+
 
 / {
     chosen {
